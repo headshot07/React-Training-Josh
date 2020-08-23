@@ -9,9 +9,10 @@ function App() {
   return (
     <div className="App">
       {/*<Greet />*/}
-      {/*<Title />
-      <ProjectContainer />*/}
-      <LoginContainer />
+        {/*<Title />
+        <ProjectContainer />
+        <LoginContainer />*/
+      }
       {
         /*<header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />

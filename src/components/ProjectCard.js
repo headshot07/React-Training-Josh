@@ -3,7 +3,7 @@ import { Media } from 'reactstrap'
 
 const ProjectCard = (props) => {
   const {image_url, name, description} = props.project;
-  console.log(image_url, name, description)
+  //console.log(image_url, name, description)
   return (
     <Media>
       <Media left href="#">
